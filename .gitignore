@@ -1,0 +1,17 @@
+# Entorno virtual (nunca subir al repo)
+myvenv/
+venv/
+env/
+
+# Variables de entorno sensibles
+.env
+*.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
